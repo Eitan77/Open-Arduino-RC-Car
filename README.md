@@ -27,7 +27,7 @@ With the main focus of the project being to remain budget-friendly, I opted for 
 * Rocker Switch - For turning the remote on and off
 
 #### Notes: 
-The biggest design challenge of the remote was getting all the components to fit into the small formfactor. Although smaller than the Arduino Mega, the Uno takes up a considerable amount of space, and the placement of the other components was designed around it. Since the joysticks can move left and rick as well as up and down, there are alot of possible steering dynamics (One for forward/backward and the other for left/right, or each for one side of the car - tank steering). 
+The biggest design challenge of the remote was getting all the components to fit into the small formfactor. Although smaller than the Arduino Mega, the Uno takes up a considerable amount of space, and the placement of the other components was designed around it. Since the joysticks can move left and right as well as up and down, there are alot of possible steering dynamics (One for forward/backward and the other for left/right, or each for one side of the car - tank steering). 
 
 ## Mechanical Components 
 
