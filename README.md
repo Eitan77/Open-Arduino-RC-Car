@@ -18,7 +18,7 @@ Hello, Welcome to the project page for Open Arduino RC Car project I have been w
 #### Notes: 
 With the main focus of the project being to remain budget-friendly, I opted for rechargable 9-Volt batteries becasue using single use batteries can be quite expensive over time. They are wired in paralell at 9-Volts so that the 5-Volt regulator on the motor driver board wont overload. I chose the NRF24L01 in specific because it can act as a transmitter as well as a receiver, which opens the possibility of sending information back to the remote (for autonomus mode). The antenna extends the range of communication to farther than 500 feet, which will be more than enough for the project. 
 
-### Remote Controll
+### Remote Control
 * Arduino Uno - Small enough to fit in the remote body, with enough IO pins to connect the controls
 * 2x Dual-Axis Joystick Modules - For contolling the motors
 * NRF24L01 Wireless Transceiver & Antenna - For communication with the car
@@ -28,6 +28,15 @@ With the main focus of the project being to remain budget-friendly, I opted for 
 
 #### Notes: 
 The biggest design challenge of the remote was getting all the components to fit into the small formfactor. Although smaller than the Arduino Mega, the Uno takes up a considerable amount of space, and the placement of the other components was designed around it. Since the joysticks can move left and rick as well as up and down, there are alot of possible steering dynamics (One for forward/backward and the other for left/right, or each for one side of the car - tank steering). 
+
+## Mechanical Components 
+
+For this project, I decided to 3D print all of the mechanical compontents becasue I can easily replace broken parts as well as modify them when needed. 3D printed parts are also very cost-effective, with all of the parts being printed in PLA filament on my Ender 3 V2. 
+
+### Remote Control
+
+
+
 
 
 
