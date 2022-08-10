@@ -33,9 +33,8 @@ The biggest design challenge of the remote was getting all the components to fit
 
 For this project, I decided to 3D print all of the mechanical compontents becasue I can easily replace broken parts as well as modify them when needed. 3D printed parts are also very cost-effective, with all of the parts being printed in PLA filament on my Ender 3 V2. 
 
-### Remote Control
-
-
+### RC Car
+I designed the RC Car chasis to be as modular as possible, so that replacing printed parts or swaping electronic components woule be easy. Each of the motors is mounted to the chasis with 2 bolts, which I have found to be a pretty reliable hold. I avoided having any bolts screw directly into the plastic, as 3D printed parts do not hold screws well compared to a dense material such as wood. The top cover mounts to the bottom frame using 4 bolts which secure into 4 nuts which are embeded in posts attatched to the bottom frame. To avoid running an abundance of wires up and down the chasis, I decided to mount the motor driver board and the tranciever inside of the chasis, while keeping the Arduino and batteries on top for easy access. 
 
 
 
