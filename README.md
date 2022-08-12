@@ -36,8 +36,8 @@ For this project, I decided to 3D print all of the mechanical compontents becasu
 ### RC Car
 I designed the RC Car chasis to be as modular as possible, so that replacing printed parts or swaping electronic components woule be easy. Each of the motors is mounted to the chasis with 2 bolts, which I have found to be a pretty reliable hold. I avoided having any bolts screw directly into the plastic, as 3D printed parts do not hold screws well compared to a dense material such as wood. The top cover mounts to the bottom frame using 4 bolts which secure into 4 nuts which are embeded in posts attatched to the bottom frame. To avoid running an abundance of wires up and down the chasis, I decided to mount the motor driver board and the tranciever inside of the chasis, while keeping the Arduino and batteries on top for easy access. 
 
-
-
+### Remote 
+The main design challenge with the remote was the necesity to secure the majority of the components to the frame rather than have them loose inside. I modified a RC remote design I found on Thingiverse to accomodate the extra switches and Arduino, and I think it turned out pretty well. 
 
 
 
